@@ -53,4 +53,4 @@ I'm always interested in collaborating on exciting computer vision projects or d
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Francois&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=GarnierFrancois&limit=5&theme=onedark&combine_all_yearly_contributions=true)
