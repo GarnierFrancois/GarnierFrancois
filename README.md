@@ -44,3 +44,13 @@ I'm continuously expanding my knowledge and staying up-to-date with the latest a
 
 I'm always interested in collaborating on exciting computer vision projects or discussing research opportunities. Feel free to reach out to me via email at [email protected] or connect with me on [LinkedIn]([https://www.linkedin.com/in/sarahjohnson](https://www.linkedin.com/in/fran%C3%A7ois-garnier01/)https://www.linkedin.com/in/fran%C3%A7ois-garnier01/).
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=GarnierFrancois&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GarnierFrancois&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GarnierFrancois&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Francois&limit=5&theme=onedark&combine_all_yearly_contributions=true)
