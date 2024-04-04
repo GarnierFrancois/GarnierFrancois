@@ -1,12 +1,11 @@
 ## Hi there! 👋 I'm François
 
-I'm a passionate computer vision engineer specialized in embedded systems, with a focus on developing innovative solutions for real-time image processing and analysis. With a strong background in computer science and extensive experience in the field of computer vision, I thrive on creating cutting-edge algorithms and deploying them on embedded platforms for various industrial applications.
+I'm a passionate computer vision engineer specialized in embedded systems, with a focus on developing innovative solutions for real-time image processing and analysis. With a strong background in computer science and extensive experience in the field of computer vision, I thrive on creating cutting-edge algorithms and deploying them on embedded platforms for various applications.
 
 ### 🔭 Current Focus
 
 - Developing and optimizing deep learning models for real-time object detection and tracking on embedded devices.
 - Implementing efficient image processing pipelines using OpenCV and GPU acceleration techniques.
-- Collaborating with cross-functional teams to design and deploy computer vision systems for quality control and industrial automation.
 - Exploring edge computing and optimization techniques to ensure efficient performance on resource-constrained devices.
 
 ### 🌱 Learning Journey
